@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_nuvigator_nested/flows/firsth/screens/one_screen.dart';
-import 'package:flutter_nuvigator_nested/flows/firsth/screens/three_screen.dart';
-import 'package:flutter_nuvigator_nested/flows/firsth/screens/two_screen.dart';
+import 'package:flutter_nuvigator_nested/flows/first/route.dart';
+import 'package:flutter_nuvigator_nested/flows/second/route.dart';
 import 'package:nuvigator/next.dart';
 
 void main() {
@@ -23,7 +22,7 @@ class MyApp extends StatelessWidget {
         routes: [
           HomeRoute(),
           FirstFlowRoute(),
-          SecundFlowRoute(),
+          SecondFlowRoute(),
         ],
       ),
     );
