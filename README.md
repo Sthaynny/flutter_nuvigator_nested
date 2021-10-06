@@ -8,7 +8,6 @@
    </a>
   <img alt="Languages" src="https://img.shields.io/github/languages/count/Sthaynny/flutter_nuvigator_nested?color=%235963C5" />
   <img alt="lastcommit" src="https://img.shields.io/github/last-commit/Sthaynny/flutter_nuvigator_nested?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/Sthaynny/flutter_nuvigator_nested?color=%235E69D7" />
   <img alt="Issues" src="https://img.shields.io/github/issues/Sthaynny/flutter_nuvigator_nested?color=%235965E0">
   <a href="mailto:igorsthaynny@gmail.com">
    <img alt="E-mail" src="https://img.shields.io/badge/-igorsthaynny%40gmail.com-%23525DCB" />
