@@ -57,7 +57,7 @@ class HomeRoute extends NuRoute {
             ),
             ElevatedButton(
                 child: Text('Segundo fluxo'),
-                onPressed: () => nuvigator.open('secund-flow')),
+                onPressed: () => nuvigator.open('second-flow')),
           ],
         ),
       ),
